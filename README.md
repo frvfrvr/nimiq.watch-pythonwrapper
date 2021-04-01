@@ -31,5 +31,5 @@ cd nimiq.watch-pythonwrapper
 
 ```python
 from nmwrap import NWaccount
-nw = nw = NWaccount('Nimiq wallet address')
+nw = NWaccount('Nimiq wallet address')
 ```
