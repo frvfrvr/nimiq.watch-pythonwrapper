@@ -17,6 +17,13 @@ You can also donate to this Nimiq address with this button:
 
 ### Usage
 
+1. Change directory to wrapper's folder
+
+```bash
+cd nimiq.watch-pythonwrapper
+```
+2. Create a Python 3 script and import it with this:
+
 ```python
 from nmwrap import NWaccount
 nw = nw = NWaccount('Nimiq wallet address')
