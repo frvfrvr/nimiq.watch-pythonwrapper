@@ -13,6 +13,7 @@ pip3 install -r requirements.txt
 python3 test.py
 ```
 *test.py* script contains a sample Nimiq wallet address you can use when you run *test.py*
+
 Leave the input dialog blank and see the sample address and balance.
 
 
