@@ -1,7 +1,7 @@
 from pycoingecko import CoinGeckoAPI
 from nmwrap import NWaccount
 
-addy = input("\ninput your Nimiq address here: ")
+addy = input("\ninput your Nimiq address here (leave blank for sample address): ") or "NQ538AAQ43Y6PBFD27DHTNCXFQRMY383EE7P"
 #copy and paste this as sample address: NQ56H3BEFK0JXD5LMBGQ3CQR2S7E4J984BL6
 
 nw = NWaccount(addy)
