@@ -1,4 +1,7 @@
+![Nimiq Watch API Python wrapper](https://github.com/frvfrvr/frvfrvr/blob/master/wrapper1.png?raw=true)
+
 # nimiq.watch-pythonwrapper
+
 Python 3.x Wrapper for Nimiq Watch API
 
 ### Installation
