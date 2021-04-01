@@ -2,7 +2,7 @@
 
 # nimiq.watch-pythonwrapper
 
-Python 3.x Wrapper for Nimiq Watch API
+Python 3.x Wrapper for [Nimiq Watch API](https://api.nimiq.watch/)
 
 ### Installation
 
