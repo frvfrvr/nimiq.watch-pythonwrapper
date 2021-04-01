@@ -13,7 +13,7 @@ python3 test.py
 
 
 You can also donate to this Nimiq address with this button:
-[![Donate NIM](https://www.nimiq.com/accept-donations/img/donationBtnImg/light-blue-big.svg)](https://wallet.nimiq.com/nimiq:NQ56H3BEFK0JXD5LMBGQ3CQR2S7E4J984BL6)
+[![Donate NIM](https://www.nimiq.com/accept-donations/img/donationBtnImg/light-blue-small.svg)](https://wallet.nimiq.com/nimiq:NQ56H3BEFK0JXD5LMBGQ3CQR2S7E4J984BL6)
 
 ### Usage
 
